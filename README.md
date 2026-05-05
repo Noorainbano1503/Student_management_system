@@ -5,12 +5,18 @@
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-license)
 
 ---
-
 ## ✨ Overview
 
 This **Student Management System** is a small yet functional console application written in pure Python. It helps you keep track of student data — add, view, search, update, and delete records — without any external dependencies or databases. Ideal for beginners to learn file handling, functions, and simple CRUD logic.
 
 ---
+## 🗂️ FILES USED <br>
+* Student.txt<br>
+*  Academic.txt<br>
+* fee.txt<br>
+* Student_management.py
+
+----
 ## 🚀 Features
 
 * **Add** new student records (name, roll number/ID, class, etc.)
